@@ -13,7 +13,7 @@ services:
     networks:
       - odoo-network
 
-  odoo16:
+  odoo18:
     image: odoo:18
     user: root
     depends_on:

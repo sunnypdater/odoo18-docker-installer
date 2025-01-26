@@ -1,3 +1,7 @@
-# Sieng-Kong
+# odoo18-installer
 
-test
+sudo ./sertup
+
+docker-compose build
+
+docker-compose up
